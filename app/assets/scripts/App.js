@@ -1,8 +1,8 @@
 import '../styles/styles.css'
-import Person from './modules/Person'
+import MobileMenu from './modules/MobileMenu'
+
+let mobileMenu = new MobileMenu();
 
 if (module.hot) {
-  module.hot.accept()
+  module.hot.accept();
 }
-
-// Lesson example code below:
