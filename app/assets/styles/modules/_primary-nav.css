@@ -51,4 +51,8 @@
       background-color: transparent;
     }
   }
+
+  &--highlighted {
+    color: $mainOrange;
+  }
 }
