@@ -8,6 +8,7 @@
 *.swp
 *.vi
 *~
+docs/
 *.sass-cache
 node_modules/
 .tmp/
